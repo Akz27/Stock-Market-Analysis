@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1731058836 source:c:\users\asus\desktop\ads_sem5\proj\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+	<limits>
+	<cstdlib>
+	<numeric>
+	<algorithm>
+
